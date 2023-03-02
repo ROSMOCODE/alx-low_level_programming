@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main -main entry point
-*return: always returns 0 and exits main
+*Return: address of r or 0
 */
 int main(void)
 {
